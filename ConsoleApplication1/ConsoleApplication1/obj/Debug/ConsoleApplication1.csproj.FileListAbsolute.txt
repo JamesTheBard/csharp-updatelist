@@ -1,0 +1,9 @@
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Interop.WUApiLib.dll
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Interop.WUApiLib.dll
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\jamesthebard\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
